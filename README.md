@@ -1,4 +1,8 @@
-# Hi there! 👋 I'm Chameera Kavinda
+<div align="center">
+  
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+👋;I'm+Chameera+Kavinda;Undergraduate+Software+Engineer;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
+
+</div>
 
 ## 🚀 About Me
 I'm an **Undergraduate Software Engineer** passionate about building innovative solutions and exploring new technologies. Currently diving deep into modern web development frameworks and expanding my technical expertise.
